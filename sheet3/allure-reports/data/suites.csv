@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Dec 04 21:27:24 CST 2023","Mon Dec 04 21:27:24 CST 2023","621","","test_automation_case","TestCase0001","","","test_calculate_items_in_credit_card_list",""
-"passed","Mon Dec 04 21:27:24 CST 2023","Mon Dec 04 21:27:30 CST 2023","5764","","test_automation_case","TestCase0001","","","test_calculate_credit_cards_num",""
-"passed","Mon Dec 04 21:27:19 CST 2023","Mon Dec 04 21:27:24 CST 2023","4639","","test_automation_case","TestCase0001","","","test_home_page_take_screenshot",""
+"passed","Mon Dec 11 22:20:57 CST 2023","Mon Dec 11 22:20:58 CST 2023","593","","test_automation_case","TestCases","","","Test case2: Calculating items in credit card list",""
+"passed","Mon Dec 11 22:20:52 CST 2023","Mon Dec 11 22:20:57 CST 2023","5138","","test_automation_case","TestCases","","","Test case1: Taking screen in home page",""
+"passed","Mon Dec 11 22:20:58 CST 2023","Mon Dec 11 22:21:05 CST 2023","6565","","test_automation_case","TestCases","","","Test case3: Confirm how many credit cards and taking screenshot for cards",""

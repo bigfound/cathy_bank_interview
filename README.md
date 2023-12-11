@@ -1,14 +1,14 @@
 the sheet 1 of the Auto_Senior_v1.xlsx:
-./[Eric]_cathy_bank_test/sheet1/測試案例心智圖.png
+./cathay_bank_interview/sheet1/測試案例心智圖.png
 
 the sheet 2 of the Auto_Senior_v1.xlsx: 
-./[Eric]_cathy_bank_test/sheet2
+./cathay_bank_interview/sheet2
 logic_1.py
 logic_2.py
 logic_3.py
 
 the sheet 3 of the Auto_Senior_v1.xlsx:  
-1. .py file path: ./[Eric]_cathay_bank_test_sheet3/test_automation_case.py
+1. .py file path: ./cathay_bank_interview/sheet3/test_automation_case.py
 2. Run test_automation_case.py:
    Step1: pytest --alluredir=./allure-results -v -s test_automation_case.py --junitxml=./log/test_automation_case.xml
    

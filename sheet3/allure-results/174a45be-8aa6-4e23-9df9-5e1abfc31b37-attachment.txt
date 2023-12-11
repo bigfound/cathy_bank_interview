@@ -1,4 +1,0 @@
-[32mINFO    [0m root:test_automation_case.py:62 Test Step2: Confirm how many items in the credit card list
-[32mINFO    [0m root:test_automation_case.py:64 Click the products introduction tab
-[32mINFO    [0m root:test_automation_case.py:67 Taking a screenshot, file name: step2_items_in_credit_card_list.png
-[32mINFO    [0m root:test_automation_case.py:71 Found 8 items in the credit card list
