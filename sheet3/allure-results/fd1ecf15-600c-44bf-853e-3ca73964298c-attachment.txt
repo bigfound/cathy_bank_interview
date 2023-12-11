@@ -1,0 +1,8 @@
+[32mINFO    [0m root:util.py:9 Create log folder: C:\Eric\work_space\python_project\cathay_bank_home_work\log
+[32mINFO    [0m root:util.py:11 Log folder already exists, remove previous files
+[32mINFO    [0m root:util.py:15 Completed log folder creation.
+[32mINFO    [0m root:test_automation_case.py:48 Test Step1: Go to CathayBank home page and take a screenshot.
+[32mINFO    [0m root:test_automation_case.py:49 Opening the CathayBank home page
+[32mINFO    [0m root:test_automation_case.py:50 https://www.cathaybk.com.tw/cathaybk/
+[32mINFO    [0m root:test_automation_case.py:53 Taking a screenshot, file name: step1_home_page_screenshot.png
+[32mINFO    [0m root:test_automation_case.py:57 Completed screenshot

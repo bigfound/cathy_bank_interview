@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_automation_case.py:40 Test Step1: Go to CathayBank home page and take a screenshot.
+[32mINFO    [0m root:test_automation_case.py:41 Opening the CathayBank home page
+[32mINFO    [0m root:test_automation_case.py:42 https://www.cathaybk.com.tw/cathaybk/
+[32mINFO    [0m root:test_automation_case.py:45 Taking a screenshot, file name: step1_home_page_screenshot.png
+[32mINFO    [0m root:test_automation_case.py:49 Completed screenshot

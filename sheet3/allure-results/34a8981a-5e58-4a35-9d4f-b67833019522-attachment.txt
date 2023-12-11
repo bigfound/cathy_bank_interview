@@ -1,0 +1,36 @@
+[32mINFO    [0m root:test_automation_case.py:71 Test Step3: Confirm how many credit cards and taking screenshot for cards
+[32mINFO    [0m root:test_automation_case.py:82 Found 7 shopping_cards
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_0.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_1.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_2.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_3.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_4.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_5.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\shopping_cards_6.png
+[32mINFO    [0m root:test_automation_case.py:82 Found 5 transport_cards
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\transport_cards_0.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\transport_cards_1.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\transport_cards_2.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\transport_cards_3.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\transport_cards_4.png
+[32mINFO    [0m root:test_automation_case.py:82 Found 9 upgraded_cube_cards
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_0.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_1.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_2.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_3.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_4.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_5.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_6.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_7.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\upgraded_cube_cards_8.png
+[32mINFO    [0m root:test_automation_case.py:82 Found 10 terminated_cards
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_0.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_1.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_2.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_3.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_4.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_5.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_6.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_7.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_8.png
+[32mINFO    [0m root:test_automation_case.py:86 Taking screenshots, path: C:\Eric\work_space\python_project\cathay_bank_home_work\log\credit_cards_nums\terminated_cards_9.png
