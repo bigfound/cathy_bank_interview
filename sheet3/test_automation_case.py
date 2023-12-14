@@ -51,7 +51,7 @@ class TestCases:
         global step1_screenshot, homepage
         step1_screenshot = 'Test_case1_home_page_screenshot.png'
         h_url = 'https://www.cathaybk.com.tw/cathaybk/'
-        logger.info('Go to CathayBank home page and take a screenshot.')
+        logger.info('Test case1: Go to CathayBank home page and take a screenshot.')
         logger.info('Opening the CathayBank home page')
         logger.info(h_url)
         homepage = HomePage(driver)
@@ -69,7 +69,7 @@ class TestCases:
     def test_calculate_items_in_credit_card_list(self):
         global case2_screenshot
         case2_screenshot = 'Test_case2_items_in_credit_card_list.png'
-        logger.info('Confirm how many items in the credit card list')
+        logger.info('Test Case2: Confirm how many items in the credit card list')
         homepage.click_product_intro()
         items_under_credit_cards = homepage.wait_util_find_all_element(MainPageLocators.credit_card_items)
         logger.info('Taking a screenshot, file name: {}'.format(case2_screenshot))
@@ -84,7 +84,7 @@ class TestCases:
     def test_calculate_credit_cards_num(self):
         screenshot_log = os.path.join(log_folder, 'credit_cards_nums')
         create_log_folder(screenshot_log)
-        logger.info('Confirm how many credit cards and taking screenshot for cards')
+        logger.info('Test case3: Confirm how many credit cards and taking screenshot for cards')
         homepage.click_credit_cards_intro()
         credit_intro_page = CreditCardIntroPage(driver)
         total_cards = credit_intro_page.get_all_credit_cards_screenshot(screenshot_log)
