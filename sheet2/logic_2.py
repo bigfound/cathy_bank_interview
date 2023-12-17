@@ -1,11 +1,10 @@
 def calculate_chars_num(s: str):
-    s_to_list = list(s)
-    chars = set(s.lower().replace(' ', ''))
+    s = s.upper()
+    chars = set(s.upper().replace(' ', ''))
     chars_sum = {}
     for char in chars:
-        chars_sum[char] = s_to_list.count(char)
-    for char, num in chars_sum.items():
-        print(char, num)
+        chars_sum[char] = s.count(char)
+        print(char, chars_sum[char])
 
 
 if __name__ == '__main__':
